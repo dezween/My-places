@@ -19,7 +19,7 @@ struct Place {
             "Burger Heroes", "Kitchen", "Bonsai", "Дастархан",
             "Индокитай", "X.O", "Балкан Гриль", "Sherlock Holmes",
             "Speak Easy", "Morris Pub", "Вкусные истории",
-            "Классик", "Шок", "Бочка"
+            "Классик", "Шок", "Бочка", "Love&Life"
         ]
     
         static func getPlaces() -> [Place] {
