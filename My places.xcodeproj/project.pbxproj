@@ -3,7 +3,7 @@
 	archiveVersion = 1;
 	classes = {
 	};
-	objectVersion = 50;
+	objectVersion = 51;
 	objects = {
 
 /* Begin PBXBuildFile section */
@@ -16,6 +16,7 @@
 		04CADC192491202C00A0DFEA /* CustomTableViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 04CADC182491202C00A0DFEA /* CustomTableViewCell.swift */; };
 		04CADC1B2491246B00A0DFEA /* PlaceModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 04CADC1A2491246B00A0DFEA /* PlaceModel.swift */; };
 		04CADC1D2492891900A0DFEA /* NewPlaceViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 04CADC1C2492891900A0DFEA /* NewPlaceViewController.swift */; };
+		04CADC1F2497C9A300A0DFEA /* StorageManager.swift in Sources */ = {isa = PBXBuildFile; fileRef = 04CADC1E2497C9A200A0DFEA /* StorageManager.swift */; };
 		BBDFE8042CF92D817AA6871A /* Pods_My_places.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = F05ECF8D44E8BB10B8F65322 /* Pods_My_places.framework */; };
 /* End PBXBuildFile section */
 
@@ -31,6 +32,7 @@
 		04CADC182491202C00A0DFEA /* CustomTableViewCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CustomTableViewCell.swift; sourceTree = "<group>"; };
 		04CADC1A2491246B00A0DFEA /* PlaceModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PlaceModel.swift; sourceTree = "<group>"; };
 		04CADC1C2492891900A0DFEA /* NewPlaceViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NewPlaceViewController.swift; sourceTree = "<group>"; };
+		04CADC1E2497C9A200A0DFEA /* StorageManager.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = StorageManager.swift; sourceTree = "<group>"; };
 		410A8CD0AE8CE11BB5742AB8 /* Pods-My places.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-My places.release.xcconfig"; path = "Target Support Files/Pods-My places/Pods-My places.release.xcconfig"; sourceTree = "<group>"; };
 		D5D5F2ACF165D95AEEB7467B /* Pods-My places.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-My places.debug.xcconfig"; path = "Target Support Files/Pods-My places/Pods-My places.debug.xcconfig"; sourceTree = "<group>"; };
 		F05ECF8D44E8BB10B8F65322 /* Pods_My_places.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_My_places.framework; sourceTree = BUILT_PRODUCTS_DIR; };
@@ -75,6 +77,7 @@
 				04CADC162490F86600A0DFEA /* MainViewController.swift */,
 				04CADC1C2492891900A0DFEA /* NewPlaceViewController.swift */,
 				04CADC1A2491246B00A0DFEA /* PlaceModel.swift */,
+				04CADC1E2497C9A200A0DFEA /* StorageManager.swift */,
 				04CADC062490F20300A0DFEA /* Main.storyboard */,
 				04CADC092490F20300A0DFEA /* Assets.xcassets */,
 				04CADC0B2490F20300A0DFEA /* LaunchScreen.storyboard */,
@@ -89,7 +92,6 @@
 				D5D5F2ACF165D95AEEB7467B /* Pods-My places.debug.xcconfig */,
 				410A8CD0AE8CE11BB5742AB8 /* Pods-My places.release.xcconfig */,
 			);
-			name = Pods;
 			path = Pods;
 			sourceTree = "<group>";
 		};
@@ -219,6 +221,7 @@
 				04CADC172490F86700A0DFEA /* MainViewController.swift in Sources */,
 				04CADC1D2492891900A0DFEA /* NewPlaceViewController.swift in Sources */,
 				04CADC012490F20300A0DFEA /* AppDelegate.swift in Sources */,
+				04CADC1F2497C9A300A0DFEA /* StorageManager.swift in Sources */,
 				04CADC1B2491246B00A0DFEA /* PlaceModel.swift in Sources */,
 				04CADC192491202C00A0DFEA /* CustomTableViewCell.swift in Sources */,
 				04CADC032490F20300A0DFEA /* SceneDelegate.swift in Sources */,
