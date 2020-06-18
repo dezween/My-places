@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		045FD1F5249BE14E00E92439 /* MapViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 045FD1F4249BE14E00E92439 /* MapViewController.swift */; };
 		04CADC012490F20300A0DFEA /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 04CADC002490F20300A0DFEA /* AppDelegate.swift */; };
 		04CADC032490F20300A0DFEA /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 04CADC022490F20300A0DFEA /* SceneDelegate.swift */; };
 		04CADC082490F20300A0DFEA /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 04CADC062490F20300A0DFEA /* Main.storyboard */; };
@@ -22,6 +23,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		045FD1F4249BE14E00E92439 /* MapViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MapViewController.swift; sourceTree = "<group>"; };
 		04CADBFD2490F20300A0DFEA /* My places.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "My places.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		04CADC002490F20300A0DFEA /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		04CADC022490F20300A0DFEA /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
@@ -79,6 +81,7 @@
 				04CADC20249BA8C100A0DFEA /* RatingControl.swift */,
 				04CADC162490F86600A0DFEA /* MainViewController.swift */,
 				04CADC1C2492891900A0DFEA /* NewPlaceViewController.swift */,
+				045FD1F4249BE14E00E92439 /* MapViewController.swift */,
 				04CADC1A2491246B00A0DFEA /* PlaceModel.swift */,
 				04CADC1E2497C9A200A0DFEA /* StorageManager.swift */,
 				04CADC062490F20300A0DFEA /* Main.storyboard */,
@@ -225,6 +228,7 @@
 				04CADC1D2492891900A0DFEA /* NewPlaceViewController.swift in Sources */,
 				04CADC012490F20300A0DFEA /* AppDelegate.swift in Sources */,
 				04CADC1F2497C9A300A0DFEA /* StorageManager.swift in Sources */,
+				045FD1F5249BE14E00E92439 /* MapViewController.swift in Sources */,
 				04CADC21249BA8C100A0DFEA /* RatingControl.swift in Sources */,
 				04CADC1B2491246B00A0DFEA /* PlaceModel.swift in Sources */,
 				04CADC192491202C00A0DFEA /* CustomTableViewCell.swift in Sources */,
