@@ -242,6 +242,9 @@
                         </constraints>
                         <viewLayoutGuide key="safeArea" id="tgv-dV-Fsx"/>
                     </view>
+                    <connections>
+                        <outlet property="mapView" destination="hY9-Jp-MXA" id="tUG-xH-dUR"/>
+                    </connections>
                 </viewController>
                 <placeholder placeholderIdentifier="IBFirstResponder" id="eRc-RM-Shh" userLabel="First Responder" customClass="UIResponder" sceneMemberID="firstResponder"/>
             </objects>
