@@ -151,13 +151,13 @@
                                             <rect key="frame" x="0.0" y="0.0" width="414" height="140"/>
                                             <autoresizingMask key="autoresizingMask"/>
                                             <subviews>
-                                                <stackView opaque="NO" contentMode="scaleToFill" spacing="8" translatesAutoresizingMaskIntoConstraints="NO" id="z1Y-mL-K5S" customClass="RatingControl" customModule="My_places" customModuleProvider="target">
+                                                <stackView opaque="NO" contentMode="scaleToFill" placeholderIntrinsicWidth="252" placeholderIntrinsicHeight="44" spacing="8" translatesAutoresizingMaskIntoConstraints="NO" id="z1Y-mL-K5S" customClass="RatingControl" customModule="My_places" customModuleProvider="target">
                                                     <rect key="frame" x="81" y="48" width="252" height="44"/>
                                                 </stackView>
                                             </subviews>
                                             <constraints>
-                                                <constraint firstItem="z1Y-mL-K5S" firstAttribute="centerX" secondItem="Qpu-ul-d8W" secondAttribute="centerX" id="vxb-CI-Bll"/>
-                                                <constraint firstItem="z1Y-mL-K5S" firstAttribute="centerY" secondItem="Qpu-ul-d8W" secondAttribute="centerY" id="yHK-mq-ya9"/>
+                                                <constraint firstItem="z1Y-mL-K5S" firstAttribute="centerY" secondItem="Qpu-ul-d8W" secondAttribute="centerY" id="Kam-wh-IaV"/>
+                                                <constraint firstItem="z1Y-mL-K5S" firstAttribute="centerX" secondItem="Qpu-ul-d8W" secondAttribute="centerX" id="d02-l2-Bqb"/>
                                             </constraints>
                                         </tableViewCellContentView>
                                     </tableViewCell>
