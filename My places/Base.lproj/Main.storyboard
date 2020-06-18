@@ -186,13 +186,14 @@
                         <outlet property="placeLocation" destination="kuc-sV-pq6" id="zHh-2E-9RG"/>
                         <outlet property="placeName" destination="f3p-UH-jeQ" id="MDS-Ne-6od"/>
                         <outlet property="placeType" destination="IDw-UP-fLj" id="iv4-Fh-3Oa"/>
+                        <outlet property="ratingControl" destination="z1Y-mL-K5S" id="98W-hq-Aef"/>
                         <outlet property="saveButton" destination="2O9-OM-QhK" id="74I-Gb-gip"/>
                     </connections>
                 </tableViewController>
                 <placeholder placeholderIdentifier="IBFirstResponder" id="Nsm-D5-A7y" userLabel="First Responder" customClass="UIResponder" sceneMemberID="firstResponder"/>
                 <exit id="CEz-Ry-AtV" userLabel="Exit" sceneMemberID="exit"/>
             </objects>
-            <point key="canvasLocation" x="1377" y="39"/>
+            <point key="canvasLocation" x="1376.8115942028987" y="38.839285714285715"/>
         </scene>
         <!--My Places-->
         <scene sceneID="A58-N0-0kr">
